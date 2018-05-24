@@ -1,0 +1,8 @@
+[package]
+name = "i80"
+version = "0.1.0"
+authors = ["coderbot16 <coderbot16@gmail.com>"]
+
+[dependencies]
+serde = "1"
+serde_derive = "1"
